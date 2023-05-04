@@ -1,0 +1,891 @@
+[
+    {
+        "id": "ee503951-4afa-431f-9469-86d695c3c521",
+        "AgeGroup": "25-34 years old",
+        "percent": 39.85,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 398,
+                "outof": 1536,
+                "From": {
+                    "Free Resources Youtube/Blogs": 216,
+                    "Books / Physical media": 203,
+                    "Online Forum": 199,
+                    "Online Courses or Certification": 198,
+                    "School": 194,
+                    "Colleague": 190,
+                    "Friend or family member": 175,
+                    "Coding Bootcamp": 161
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 401,
+                "outof": 1551,
+                "From": {
+                    "Free Resources Youtube/Blogs": 217,
+                    "Books / Physical media": 205,
+                    "Online Courses or Certification": 199,
+                    "School": 198,
+                    "Online Forum": 198,
+                    "Colleague": 189,
+                    "Friend or family member": 178,
+                    "Coding Bootcamp": 167
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 398,
+                "outof": 1537,
+                "From": {
+                    "Free Resources Youtube/Blogs": 217,
+                    "Books / Physical media": 204,
+                    "Online Courses or Certification": 198,
+                    "School": 196,
+                    "Online Forum": 196,
+                    "Colleague": 186,
+                    "Friend or family member": 176,
+                    "Coding Bootcamp": 164
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 378,
+                "outof": 1459,
+                "From": {
+                    "Free Resources Youtube/Blogs": 212,
+                    "Books / Physical media": 190,
+                    "School": 189,
+                    "Online Courses or Certification": 187,
+                    "Online Forum": 186,
+                    "Colleague": 177,
+                    "Friend or family member": 165,
+                    "Coding Bootcamp": 153
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 371,
+                "outof": 1413,
+                "From": {
+                    "Free Resources Youtube/Blogs": 201,
+                    "Books / Physical media": 189,
+                    "School": 188,
+                    "Online Courses or Certification": 183,
+                    "Online Forum": 177,
+                    "Colleague": 169,
+                    "Friend or family member": 163,
+                    "Coding Bootcamp": 143
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 378,
+                "outof": 1455,
+                "From": {
+                    "Free Resources Youtube/Blogs": 205,
+                    "Books / Physical media": 196,
+                    "School": 187,
+                    "Online Courses or Certification": 187,
+                    "Online Forum": 186,
+                    "Colleague": 175,
+                    "Friend or family member": 169,
+                    "Coding Bootcamp": 150
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 359,
+                "outof": 1372,
+                "From": {
+                    "Free Resources Youtube/Blogs": 199,
+                    "Books / Physical media": 184,
+                    "Online Courses or Certification": 183,
+                    "School": 175,
+                    "Online Forum": 171,
+                    "Colleague": 164,
+                    "Friend or family member": 157,
+                    "Coding Bootcamp": 139
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 341,
+                "outof": 1301,
+                "From": {
+                    "Free Resources Youtube/Blogs": 186,
+                    "Books / Physical media": 177,
+                    "Online Courses or Certification": 173,
+                    "School": 172,
+                    "Online Forum": 165,
+                    "Colleague": 157,
+                    "Friend or family member": 148,
+                    "Coding Bootcamp": 123
+                }
+            }
+        ]
+    },
+    {
+        "id": "57b32a38-f3d7-46b6-8bbc-4f0cb1e42363",
+        "AgeGroup": "18-24 years old",
+        "percent": 24.72,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 380,
+                "outof": 1469,
+                "From": {
+                    "Free Resources Youtube/Blogs": 212,
+                    "Online Courses or Certification": 192,
+                    "Books / Physical media": 190,
+                    "School": 189,
+                    "Online Forum": 182,
+                    "Friend or family member": 173,
+                    "Colleague": 170,
+                    "Coding Bootcamp": 161
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 378,
+                "outof": 1461,
+                "From": {
+                    "Free Resources Youtube/Blogs": 209,
+                    "Online Courses or Certification": 192,
+                    "School": 190,
+                    "Books / Physical media": 185,
+                    "Online Forum": 183,
+                    "Friend or family member": 173,
+                    "Colleague": 168,
+                    "Coding Bootcamp": 161
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 372,
+                "outof": 1437,
+                "From": {
+                    "Free Resources Youtube/Blogs": 207,
+                    "Online Courses or Certification": 191,
+                    "School": 185,
+                    "Books / Physical media": 181,
+                    "Online Forum": 179,
+                    "Friend or family member": 172,
+                    "Colleague": 164,
+                    "Coding Bootcamp": 158
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 363,
+                "outof": 1397,
+                "From": {
+                    "Free Resources Youtube/Blogs": 203,
+                    "Online Courses or Certification": 188,
+                    "Books / Physical media": 180,
+                    "School": 178,
+                    "Online Forum": 173,
+                    "Friend or family member": 165,
+                    "Colleague": 158,
+                    "Coding Bootcamp": 152
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 366,
+                "outof": 1415,
+                "From": {
+                    "Free Resources Youtube/Blogs": 202,
+                    "School": 186,
+                    "Online Courses or Certification": 185,
+                    "Books / Physical media": 185,
+                    "Online Forum": 176,
+                    "Friend or family member": 164,
+                    "Colleague": 160,
+                    "Coding Bootcamp": 157
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 354,
+                "outof": 1373,
+                "From": {
+                    "Free Resources Youtube/Blogs": 205,
+                    "Online Courses or Certification": 184,
+                    "School": 177,
+                    "Books / Physical media": 175,
+                    "Online Forum": 169,
+                    "Friend or family member": 159,
+                    "Colleague": 156,
+                    "Coding Bootcamp": 148
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 309,
+                "outof": 1179,
+                "From": {
+                    "Free Resources Youtube/Blogs": 186,
+                    "Online Courses or Certification": 162,
+                    "School": 153,
+                    "Books / Physical media": 148,
+                    "Online Forum": 145,
+                    "Friend or family member": 136,
+                    "Colleague": 129,
+                    "Coding Bootcamp": 120
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 321,
+                "outof": 1227,
+                "From": {
+                    "Free Resources Youtube/Blogs": 184,
+                    "School": 163,
+                    "Online Courses or Certification": 162,
+                    "Books / Physical media": 160,
+                    "Online Forum": 149,
+                    "Friend or family member": 147,
+                    "Colleague": 137,
+                    "Coding Bootcamp": 125
+                }
+            }
+        ]
+    },
+    {
+        "id": "50fa2c64-cea6-4763-97c5-81cb44575d6f",
+        "AgeGroup": "35-44 years old",
+        "percent": 19.16,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 364,
+                "outof": 1397,
+                "From": {
+                    "Books / Physical media": 202,
+                    "Free Resources Youtube/Blogs": 196,
+                    "Online Courses or Certification": 187,
+                    "School": 180,
+                    "Online Forum": 175,
+                    "Colleague": 168,
+                    "Friend or family member": 157,
+                    "Coding Bootcamp": 132
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 364,
+                "outof": 1393,
+                "From": {
+                    "Free Resources Youtube/Blogs": 198,
+                    "Books / Physical media": 197,
+                    "Online Courses or Certification": 186,
+                    "School": 180,
+                    "Online Forum": 175,
+                    "Colleague": 168,
+                    "Friend or family member": 155,
+                    "Coding Bootcamp": 134
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 358,
+                "outof": 1372,
+                "From": {
+                    "Free Resources Youtube/Blogs": 197,
+                    "Books / Physical media": 195,
+                    "Online Courses or Certification": 182,
+                    "School": 177,
+                    "Online Forum": 172,
+                    "Colleague": 165,
+                    "Friend or family member": 154,
+                    "Coding Bootcamp": 130
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 346,
+                "outof": 1323,
+                "From": {
+                    "Books / Physical media": 191,
+                    "Free Resources Youtube/Blogs": 188,
+                    "Online Courses or Certification": 176,
+                    "School": 170,
+                    "Online Forum": 166,
+                    "Colleague": 159,
+                    "Friend or family member": 148,
+                    "Coding Bootcamp": 125
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 294,
+                "outof": 1104,
+                "From": {
+                    "Books / Physical media": 173,
+                    "Free Resources Youtube/Blogs": 157,
+                    "School": 150,
+                    "Online Courses or Certification": 148,
+                    "Online Forum": 138,
+                    "Friend or family member": 126,
+                    "Colleague": 123,
+                    "Coding Bootcamp": 89
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 337,
+                "outof": 1290,
+                "From": {
+                    "Books / Physical media": 190,
+                    "Free Resources Youtube/Blogs": 185,
+                    "School": 170,
+                    "Online Courses or Certification": 165,
+                    "Online Forum": 162,
+                    "Colleague": 152,
+                    "Friend or family member": 148,
+                    "Coding Bootcamp": 118
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 301,
+                "outof": 1124,
+                "From": {
+                    "Books / Physical media": 170,
+                    "Free Resources Youtube/Blogs": 165,
+                    "Online Courses or Certification": 151,
+                    "School": 142,
+                    "Online Forum": 141,
+                    "Colleague": 137,
+                    "Friend or family member": 121,
+                    "Coding Bootcamp": 97
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 286,
+                "outof": 1078,
+                "From": {
+                    "Books / Physical media": 167,
+                    "Free Resources Youtube/Blogs": 154,
+                    "Online Courses or Certification": 146,
+                    "School": 142,
+                    "Online Forum": 137,
+                    "Colleague": 123,
+                    "Friend or family member": 121,
+                    "Coding Bootcamp": 88
+                }
+            }
+        ]
+    },
+    {
+        "id": "6157c4dd-028e-49e7-937d-ee7f10efd6e3",
+        "AgeGroup": "45-54 years old",
+        "percent": 7.06,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 257,
+                "outof": 952,
+                "From": {
+                    "Books / Physical media": 160,
+                    "Free Resources Youtube/Blogs": 143,
+                    "Online Courses or Certification": 128,
+                    "School": 123,
+                    "Colleague": 115,
+                    "Online Forum": 115,
+                    "Friend or family member": 96,
+                    "Coding Bootcamp": 72
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 245,
+                "outof": 900,
+                "From": {
+                    "Books / Physical media": 154,
+                    "Free Resources Youtube/Blogs": 134,
+                    "Online Courses or Certification": 122,
+                    "School": 115,
+                    "Online Forum": 111,
+                    "Colleague": 109,
+                    "Friend or family member": 89,
+                    "Coding Bootcamp": 66
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 238,
+                "outof": 867,
+                "From": {
+                    "Books / Physical media": 151,
+                    "Free Resources Youtube/Blogs": 129,
+                    "Online Courses or Certification": 118,
+                    "School": 109,
+                    "Online Forum": 107,
+                    "Colleague": 104,
+                    "Friend or family member": 86,
+                    "Coding Bootcamp": 63
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 238,
+                "outof": 875,
+                "From": {
+                    "Books / Physical media": 154,
+                    "Free Resources Youtube/Blogs": 131,
+                    "Online Courses or Certification": 119,
+                    "School": 113,
+                    "Online Forum": 108,
+                    "Colleague": 102,
+                    "Friend or family member": 85,
+                    "Coding Bootcamp": 63
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 202,
+                "outof": 735,
+                "From": {
+                    "Books / Physical media": 134,
+                    "Free Resources Youtube/Blogs": 113,
+                    "Online Courses or Certification": 98,
+                    "School": 97,
+                    "Online Forum": 89,
+                    "Colleague": 86,
+                    "Friend or family member": 72,
+                    "Coding Bootcamp": 46
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 232,
+                "outof": 864,
+                "From": {
+                    "Books / Physical media": 152,
+                    "Free Resources Youtube/Blogs": 132,
+                    "Online Courses or Certification": 113,
+                    "School": 112,
+                    "Online Forum": 107,
+                    "Colleague": 102,
+                    "Friend or family member": 86,
+                    "Coding Bootcamp": 60
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 176,
+                "outof": 634,
+                "From": {
+                    "Books / Physical media": 119,
+                    "Free Resources Youtube/Blogs": 96,
+                    "Online Courses or Certification": 90,
+                    "School": 79,
+                    "Online Forum": 77,
+                    "Colleague": 70,
+                    "Friend or family member": 61,
+                    "Coding Bootcamp": 42
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 202,
+                "outof": 736,
+                "From": {
+                    "Books / Physical media": 136,
+                    "Free Resources Youtube/Blogs": 114,
+                    "School": 100,
+                    "Online Courses or Certification": 95,
+                    "Colleague": 89,
+                    "Online Forum": 84,
+                    "Friend or family member": 70,
+                    "Coding Bootcamp": 48
+                }
+            }
+        ]
+    },
+    {
+        "id": "4d8ba2da-1342-41ca-ba4a-cc009d2262b9",
+        "AgeGroup": "Under 18 years old",
+        "percent": 6.07,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 251,
+                "outof": 908,
+                "From": {
+                    "Free Resources Youtube/Blogs": 150,
+                    "Online Courses or Certification": 125,
+                    "School": 123,
+                    "Books / Physical media": 122,
+                    "Online Forum": 121,
+                    "Friend or family member": 114,
+                    "Coding Bootcamp": 100,
+                    "Colleague": 53
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 243,
+                "outof": 867,
+                "From": {
+                    "Free Resources Youtube/Blogs": 149,
+                    "Online Courses or Certification": 121,
+                    "Online Forum": 118,
+                    "School": 114,
+                    "Books / Physical media": 112,
+                    "Friend or family member": 111,
+                    "Coding Bootcamp": 90,
+                    "Colleague": 52
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 226,
+                "outof": 808,
+                "From": {
+                    "Free Resources Youtube/Blogs": 144,
+                    "Online Courses or Certification": 116,
+                    "Online Forum": 111,
+                    "School": 106,
+                    "Books / Physical media": 104,
+                    "Friend or family member": 101,
+                    "Coding Bootcamp": 82,
+                    "Colleague": 44
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 231,
+                "outof": 836,
+                "From": {
+                    "Free Resources Youtube/Blogs": 143,
+                    "Online Courses or Certification": 120,
+                    "Online Forum": 113,
+                    "Books / Physical media": 113,
+                    "School": 110,
+                    "Friend or family member": 104,
+                    "Coding Bootcamp": 92,
+                    "Colleague": 41
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 236,
+                "outof": 851,
+                "From": {
+                    "Free Resources Youtube/Blogs": 144,
+                    "Online Courses or Certification": 118,
+                    "Online Forum": 116,
+                    "Books / Physical media": 116,
+                    "School": 115,
+                    "Friend or family member": 104,
+                    "Coding Bootcamp": 93,
+                    "Colleague": 45
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 160,
+                "outof": 569,
+                "From": {
+                    "Free Resources Youtube/Blogs": 109,
+                    "Online Courses or Certification": 86,
+                    "School": 78,
+                    "Online Forum": 76,
+                    "Books / Physical media": 75,
+                    "Friend or family member": 64,
+                    "Coding Bootcamp": 54,
+                    "Colleague": 27
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 147,
+                "outof": 495,
+                "From": {
+                    "Free Resources Youtube/Blogs": 95,
+                    "Online Courses or Certification": 75,
+                    "Books / Physical media": 68,
+                    "Online Forum": 67,
+                    "School": 66,
+                    "Friend or family member": 59,
+                    "Coding Bootcamp": 49,
+                    "Colleague": 16
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 177,
+                "outof": 613,
+                "From": {
+                    "Free Resources Youtube/Blogs": 111,
+                    "School": 84,
+                    "Online Forum": 84,
+                    "Online Courses or Certification": 83,
+                    "Books / Physical media": 81,
+                    "Friend or family member": 75,
+                    "Coding Bootcamp": 64,
+                    "Colleague": 31
+                }
+            }
+        ]
+    },
+    {
+        "id": "f7edc13f-2d38-42f5-b2e5-5a2853e5385c",
+        "AgeGroup": "65 years or older",
+        "percent": 0.64,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 67,
+                "outof": 192,
+                "From": {
+                    "Books / Physical media": 48,
+                    "School": 31,
+                    "Free Resources Youtube/Blogs": 30,
+                    "Colleague": 23,
+                    "Online Courses or Certification": 22,
+                    "Friend or family member": 15,
+                    "Online Forum": 14,
+                    "Coding Bootcamp": 9
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 51,
+                "outof": 153,
+                "From": {
+                    "Books / Physical media": 39,
+                    "School": 27,
+                    "Free Resources Youtube/Blogs": 25,
+                    "Colleague": 18,
+                    "Online Courses or Certification": 16,
+                    "Online Forum": 12,
+                    "Friend or family member": 9,
+                    "Coding Bootcamp": 7
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 49,
+                "outof": 143,
+                "From": {
+                    "Books / Physical media": 37,
+                    "School": 25,
+                    "Free Resources Youtube/Blogs": 24,
+                    "Colleague": 17,
+                    "Online Courses or Certification": 14,
+                    "Online Forum": 12,
+                    "Friend or family member": 7,
+                    "Coding Bootcamp": 7
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 51,
+                "outof": 140,
+                "From": {
+                    "Books / Physical media": 36,
+                    "School": 25,
+                    "Free Resources Youtube/Blogs": 23,
+                    "Colleague": 18,
+                    "Online Courses or Certification": 15,
+                    "Friend or family member": 10,
+                    "Online Forum": 9,
+                    "Coding Bootcamp": 4
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 46,
+                "outof": 133,
+                "From": {
+                    "Books / Physical media": 35,
+                    "School": 24,
+                    "Free Resources Youtube/Blogs": 21,
+                    "Colleague": 18,
+                    "Online Courses or Certification": 15,
+                    "Online Forum": 10,
+                    "Friend or family member": 7,
+                    "Coding Bootcamp": 3
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 59,
+                "outof": 182,
+                "From": {
+                    "Books / Physical media": 44,
+                    "Free Resources Youtube/Blogs": 31,
+                    "School": 31,
+                    "Colleague": 22,
+                    "Online Courses or Certification": 20,
+                    "Online Forum": 15,
+                    "Coding Bootcamp": 10,
+                    "Friend or family member": 9
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 21,
+                "outof": 54,
+                "From": {
+                    "Books / Physical media": 15,
+                    "Free Resources Youtube/Blogs": 11,
+                    "School": 11,
+                    "Online Forum": 5,
+                    "Online Courses or Certification": 5,
+                    "Coding Bootcamp": 3,
+                    "Colleague": 3,
+                    "Friend or family member": 1
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 34,
+                "outof": 89,
+                "From": {
+                    "Books / Physical media": 23,
+                    "Free Resources Youtube/Blogs": 16,
+                    "School": 13,
+                    "Online Courses or Certification": 12,
+                    "Colleague": 7,
+                    "Online Forum": 6,
+                    "Friend or family member": 6,
+                    "Coding Bootcamp": 6
+                }
+            }
+        ]
+    },
+    {
+        "id": "b4cc0dc4-2f04-4270-ab50-14fdbc48a74b",
+        "AgeGroup": "55-64 years old",
+        "percent": 2.49,
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 154,
+                "outof": 546,
+                "From": {
+                    "Books / Physical media": 112,
+                    "Free Resources Youtube/Blogs": 80,
+                    "School": 78,
+                    "Online Courses or Certification": 77,
+                    "Colleague": 64,
+                    "Online Forum": 63,
+                    "Friend or family member": 41,
+                    "Coding Bootcamp": 31
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 144,
+                "outof": 516,
+                "From": {
+                    "Books / Physical media": 108,
+                    "Free Resources Youtube/Blogs": 76,
+                    "School": 76,
+                    "Online Courses or Certification": 69,
+                    "Online Forum": 58,
+                    "Colleague": 58,
+                    "Friend or family member": 38,
+                    "Coding Bootcamp": 33
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 133,
+                "outof": 467,
+                "From": {
+                    "Books / Physical media": 98,
+                    "Free Resources Youtube/Blogs": 71,
+                    "School": 68,
+                    "Online Courses or Certification": 63,
+                    "Online Forum": 54,
+                    "Colleague": 53,
+                    "Friend or family member": 34,
+                    "Coding Bootcamp": 26
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 132,
+                "outof": 456,
+                "From": {
+                    "Books / Physical media": 96,
+                    "Free Resources Youtube/Blogs": 69,
+                    "School": 64,
+                    "Online Courses or Certification": 62,
+                    "Online Forum": 56,
+                    "Colleague": 54,
+                    "Friend or family member": 31,
+                    "Coding Bootcamp": 24
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 114,
+                "outof": 405,
+                "From": {
+                    "Books / Physical media": 90,
+                    "Free Resources Youtube/Blogs": 60,
+                    "School": 60,
+                    "Online Courses or Certification": 56,
+                    "Colleague": 45,
+                    "Online Forum": 42,
+                    "Friend or family member": 31,
+                    "Coding Bootcamp": 21
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 138,
+                "outof": 491,
+                "From": {
+                    "Books / Physical media": 102,
+                    "Free Resources Youtube/Blogs": 75,
+                    "School": 71,
+                    "Online Courses or Certification": 62,
+                    "Colleague": 61,
+                    "Online Forum": 58,
+                    "Friend or family member": 34,
+                    "Coding Bootcamp": 28
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 88,
+                "outof": 285,
+                "From": {
+                    "Books / Physical media": 64,
+                    "Free Resources Youtube/Blogs": 45,
+                    "School": 42,
+                    "Online Courses or Certification": 41,
+                    "Online Forum": 32,
+                    "Colleague": 31,
+                    "Friend or family member": 18,
+                    "Coding Bootcamp": 12
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 115,
+                "outof": 403,
+                "From": {
+                    "Books / Physical media": 86,
+                    "Free Resources Youtube/Blogs": 62,
+                    "School": 57,
+                    "Online Courses or Certification": 55,
+                    "Online Forum": 51,
+                    "Colleague": 44,
+                    "Friend or family member": 24,
+                    "Coding Bootcamp": 24
+                }
+            }
+        ]
+    }
+]

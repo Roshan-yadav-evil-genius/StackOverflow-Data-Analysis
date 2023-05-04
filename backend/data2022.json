@@ -1,0 +1,940 @@
+[
+    {
+        "id": "0be55616-293d-428d-94e4-4e7624eb1c39",
+        "AgeGroup": "25-34 years old",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 578,
+                "outof": 2630,
+                "From": {
+                    "Free Resources Youtube/Blogs": 477,
+                    "Books / Physical media": 304,
+                    "Online Courses or Certification": 303,
+                    "School (i.e., University, College, etc)": 302,
+                    "On the job training": 294,
+                    "Colleague": 262,
+                    "Friend or family member": 247,
+                    "Coding Bootcamp": 224,
+                    "Hackathons (virtual or in-person)": 217
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 575,
+                "outof": 2598,
+                "From": {
+                    "Free Resources Youtube/Blogs": 466,
+                    "School (i.e., University, College, etc)": 302,
+                    "Online Courses or Certification": 300,
+                    "Books / Physical media": 298,
+                    "On the job training": 290,
+                    "Colleague": 255,
+                    "Friend or family member": 243,
+                    "Coding Bootcamp": 223,
+                    "Hackathons (virtual or in-person)": 221
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 562,
+                "outof": 2540,
+                "From": {
+                    "Free Resources Youtube/Blogs": 459,
+                    "School (i.e., University, College, etc)": 298,
+                    "Books / Physical media": 292,
+                    "Online Courses or Certification": 292,
+                    "On the job training": 286,
+                    "Colleague": 250,
+                    "Friend or family member": 234,
+                    "Coding Bootcamp": 216,
+                    "Hackathons (virtual or in-person)": 213
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 537,
+                "outof": 2430,
+                "From": {
+                    "Free Resources Youtube/Blogs": 443,
+                    "Online Courses or Certification": 287,
+                    "School (i.e., University, College, etc)": 281,
+                    "Books / Physical media": 278,
+                    "On the job training": 275,
+                    "Colleague": 240,
+                    "Friend or family member": 223,
+                    "Coding Bootcamp": 205,
+                    "Hackathons (virtual or in-person)": 198
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 514,
+                "outof": 2321,
+                "From": {
+                    "Free Resources Youtube/Blogs": 417,
+                    "School (i.e., University, College, etc)": 281,
+                    "Books / Physical media": 274,
+                    "Online Courses or Certification": 270,
+                    "On the job training": 261,
+                    "Colleague": 224,
+                    "Friend or family member": 214,
+                    "Hackathons (virtual or in-person)": 192,
+                    "Coding Bootcamp": 188
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 531,
+                "outof": 2383,
+                "From": {
+                    "Free Resources Youtube/Blogs": 428,
+                    "School (i.e., University, College, etc)": 283,
+                    "Online Courses or Certification": 277,
+                    "Books / Physical media": 275,
+                    "On the job training": 274,
+                    "Colleague": 235,
+                    "Friend or family member": 224,
+                    "Coding Bootcamp": 198,
+                    "Hackathons (virtual or in-person)": 189
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 504,
+                "outof": 2245,
+                "From": {
+                    "Free Resources Youtube/Blogs": 398,
+                    "School (i.e., University, College, etc)": 267,
+                    "Books / Physical media": 263,
+                    "Online Courses or Certification": 261,
+                    "On the job training": 257,
+                    "Colleague": 233,
+                    "Friend or family member": 199,
+                    "Hackathons (virtual or in-person)": 184,
+                    "Coding Bootcamp": 183
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 439,
+                "outof": 1930,
+                "From": {
+                    "Free Resources Youtube/Blogs": 330,
+                    "School (i.e., University, College, etc)": 243,
+                    "Books / Physical media": 233,
+                    "Online Courses or Certification": 232,
+                    "On the job training": 226,
+                    "Colleague": 194,
+                    "Friend or family member": 168,
+                    "Coding Bootcamp": 155,
+                    "Hackathons (virtual or in-person)": 149
+                }
+            }
+        ]
+    },
+    {
+        "id": "cb6d631c-4663-42fd-b519-add7dbedf8d6",
+        "AgeGroup": "18-24 years old",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 561,
+                "outof": 2516,
+                "From": {
+                    "Free Resources Youtube/Blogs": 452,
+                    "Online Courses or Certification": 302,
+                    "School (i.e., University, College, etc)": 301,
+                    "Books / Physical media": 272,
+                    "On the job training": 258,
+                    "Friend or family member": 238,
+                    "Colleague": 238,
+                    "Coding Bootcamp": 228,
+                    "Hackathons (virtual or in-person)": 227
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 547,
+                "outof": 2465,
+                "From": {
+                    "Free Resources Youtube/Blogs": 444,
+                    "Online Courses or Certification": 298,
+                    "School (i.e., University, College, etc)": 296,
+                    "Books / Physical media": 267,
+                    "On the job training": 255,
+                    "Colleague": 233,
+                    "Friend or family member": 231,
+                    "Coding Bootcamp": 224,
+                    "Hackathons (virtual or in-person)": 217
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 536,
+                "outof": 2415,
+                "From": {
+                    "Free Resources Youtube/Blogs": 435,
+                    "Online Courses or Certification": 291,
+                    "School (i.e., University, College, etc)": 291,
+                    "Books / Physical media": 264,
+                    "On the job training": 248,
+                    "Colleague": 228,
+                    "Friend or family member": 227,
+                    "Coding Bootcamp": 218,
+                    "Hackathons (virtual or in-person)": 213
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 526,
+                "outof": 2365,
+                "From": {
+                    "Free Resources Youtube/Blogs": 428,
+                    "School (i.e., University, College, etc)": 291,
+                    "Online Courses or Certification": 286,
+                    "Books / Physical media": 253,
+                    "On the job training": 246,
+                    "Friend or family member": 223,
+                    "Colleague": 219,
+                    "Coding Bootcamp": 214,
+                    "Hackathons (virtual or in-person)": 205
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 503,
+                "outof": 2244,
+                "From": {
+                    "Free Resources Youtube/Blogs": 404,
+                    "School (i.e., University, College, etc)": 283,
+                    "Online Courses or Certification": 271,
+                    "Books / Physical media": 245,
+                    "On the job training": 230,
+                    "Colleague": 213,
+                    "Friend or family member": 205,
+                    "Hackathons (virtual or in-person)": 199,
+                    "Coding Bootcamp": 194
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 477,
+                "outof": 2120,
+                "From": {
+                    "Free Resources Youtube/Blogs": 373,
+                    "School (i.e., University, College, etc)": 268,
+                    "Online Courses or Certification": 264,
+                    "Books / Physical media": 234,
+                    "On the job training": 218,
+                    "Friend or family member": 199,
+                    "Colleague": 197,
+                    "Coding Bootcamp": 189,
+                    "Hackathons (virtual or in-person)": 178
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 439,
+                "outof": 1944,
+                "From": {
+                    "Free Resources Youtube/Blogs": 362,
+                    "School (i.e., University, College, etc)": 250,
+                    "Online Courses or Certification": 235,
+                    "Books / Physical media": 214,
+                    "On the job training": 202,
+                    "Friend or family member": 176,
+                    "Colleague": 176,
+                    "Hackathons (virtual or in-person)": 168,
+                    "Coding Bootcamp": 161
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 392,
+                "outof": 1716,
+                "From": {
+                    "Free Resources Youtube/Blogs": 316,
+                    "School (i.e., University, College, etc)": 226,
+                    "Online Courses or Certification": 207,
+                    "Books / Physical media": 199,
+                    "On the job training": 183,
+                    "Colleague": 155,
+                    "Friend or family member": 154,
+                    "Coding Bootcamp": 142,
+                    "Hackathons (virtual or in-person)": 134
+                }
+            }
+        ]
+    },
+    {
+        "id": "e25b2054-7f3a-4ced-b9ac-602a2d1b65df",
+        "AgeGroup": "35-44 years old",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 448,
+                "outof": 1982,
+                "From": {
+                    "Free Resources Youtube/Blogs": 366,
+                    "Books / Physical media": 257,
+                    "Online Courses or Certification": 240,
+                    "On the job training": 233,
+                    "School (i.e., University, College, etc)": 217,
+                    "Colleague": 200,
+                    "Friend or family member": 176,
+                    "Coding Bootcamp": 152,
+                    "Hackathons (virtual or in-person)": 141
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 457,
+                "outof": 2020,
+                "From": {
+                    "Free Resources Youtube/Blogs": 374,
+                    "Books / Physical media": 261,
+                    "Online Courses or Certification": 244,
+                    "On the job training": 239,
+                    "School (i.e., University, College, etc)": 221,
+                    "Colleague": 200,
+                    "Friend or family member": 178,
+                    "Coding Bootcamp": 161,
+                    "Hackathons (virtual or in-person)": 142
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 442,
+                "outof": 1944,
+                "From": {
+                    "Free Resources Youtube/Blogs": 361,
+                    "Books / Physical media": 252,
+                    "Online Courses or Certification": 238,
+                    "On the job training": 231,
+                    "School (i.e., University, College, etc)": 214,
+                    "Colleague": 192,
+                    "Friend or family member": 172,
+                    "Coding Bootcamp": 149,
+                    "Hackathons (virtual or in-person)": 135
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 415,
+                "outof": 1826,
+                "From": {
+                    "Free Resources Youtube/Blogs": 345,
+                    "Books / Physical media": 238,
+                    "Online Courses or Certification": 225,
+                    "On the job training": 215,
+                    "School (i.e., University, College, etc)": 203,
+                    "Colleague": 182,
+                    "Friend or family member": 159,
+                    "Coding Bootcamp": 135,
+                    "Hackathons (virtual or in-person)": 124
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 384,
+                "outof": 1657,
+                "From": {
+                    "Free Resources Youtube/Blogs": 306,
+                    "Books / Physical media": 228,
+                    "Online Courses or Certification": 202,
+                    "School (i.e., University, College, etc)": 197,
+                    "On the job training": 194,
+                    "Colleague": 158,
+                    "Friend or family member": 135,
+                    "Coding Bootcamp": 122,
+                    "Hackathons (virtual or in-person)": 115
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 414,
+                "outof": 1821,
+                "From": {
+                    "Free Resources Youtube/Blogs": 335,
+                    "Books / Physical media": 240,
+                    "Online Courses or Certification": 218,
+                    "On the job training": 218,
+                    "School (i.e., University, College, etc)": 208,
+                    "Colleague": 186,
+                    "Friend or family member": 158,
+                    "Coding Bootcamp": 134,
+                    "Hackathons (virtual or in-person)": 124
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 361,
+                "outof": 1566,
+                "From": {
+                    "Free Resources Youtube/Blogs": 299,
+                    "Books / Physical media": 212,
+                    "On the job training": 192,
+                    "Online Courses or Certification": 192,
+                    "School (i.e., University, College, etc)": 173,
+                    "Colleague": 156,
+                    "Friend or family member": 136,
+                    "Coding Bootcamp": 110,
+                    "Hackathons (virtual or in-person)": 96
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 326,
+                "outof": 1424,
+                "From": {
+                    "Free Resources Youtube/Blogs": 257,
+                    "Books / Physical media": 210,
+                    "On the job training": 177,
+                    "Online Courses or Certification": 172,
+                    "School (i.e., University, College, etc)": 164,
+                    "Colleague": 147,
+                    "Friend or family member": 119,
+                    "Coding Bootcamp": 101,
+                    "Hackathons (virtual or in-person)": 77
+                }
+            }
+        ]
+    },
+    {
+        "id": "7bf75171-b4a4-4c30-be3c-c34a67c07106",
+        "AgeGroup": "45-54 years old",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 291,
+                "outof": 1258,
+                "From": {
+                    "Free Resources Youtube/Blogs": 240,
+                    "Books / Physical media": 209,
+                    "On the job training": 156,
+                    "School (i.e., University, College, etc)": 147,
+                    "Online Courses or Certification": 133,
+                    "Colleague": 120,
+                    "Friend or family member": 104,
+                    "Coding Bootcamp": 80,
+                    "Hackathons (virtual or in-person)": 69
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 279,
+                "outof": 1210,
+                "From": {
+                    "Free Resources Youtube/Blogs": 233,
+                    "Books / Physical media": 202,
+                    "On the job training": 154,
+                    "School (i.e., University, College, etc)": 141,
+                    "Online Courses or Certification": 128,
+                    "Colleague": 115,
+                    "Friend or family member": 96,
+                    "Coding Bootcamp": 77,
+                    "Hackathons (virtual or in-person)": 64
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 273,
+                "outof": 1186,
+                "From": {
+                    "Free Resources Youtube/Blogs": 230,
+                    "Books / Physical media": 197,
+                    "On the job training": 153,
+                    "School (i.e., University, College, etc)": 139,
+                    "Online Courses or Certification": 126,
+                    "Colleague": 112,
+                    "Friend or family member": 94,
+                    "Coding Bootcamp": 73,
+                    "Hackathons (virtual or in-person)": 62
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 254,
+                "outof": 1074,
+                "From": {
+                    "Free Resources Youtube/Blogs": 207,
+                    "Books / Physical media": 179,
+                    "On the job training": 136,
+                    "School (i.e., University, College, etc)": 125,
+                    "Online Courses or Certification": 116,
+                    "Colleague": 100,
+                    "Friend or family member": 90,
+                    "Coding Bootcamp": 68,
+                    "Hackathons (virtual or in-person)": 53
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 234,
+                "outof": 982,
+                "From": {
+                    "Free Resources Youtube/Blogs": 191,
+                    "Books / Physical media": 170,
+                    "On the job training": 125,
+                    "School (i.e., University, College, etc)": 120,
+                    "Online Courses or Certification": 104,
+                    "Colleague": 91,
+                    "Friend or family member": 73,
+                    "Coding Bootcamp": 57,
+                    "Hackathons (virtual or in-person)": 51
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 269,
+                "outof": 1149,
+                "From": {
+                    "Free Resources Youtube/Blogs": 214,
+                    "Books / Physical media": 191,
+                    "On the job training": 150,
+                    "School (i.e., University, College, etc)": 134,
+                    "Online Courses or Certification": 128,
+                    "Colleague": 109,
+                    "Friend or family member": 89,
+                    "Coding Bootcamp": 74,
+                    "Hackathons (virtual or in-person)": 60
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 214,
+                "outof": 902,
+                "From": {
+                    "Free Resources Youtube/Blogs": 180,
+                    "Books / Physical media": 153,
+                    "On the job training": 123,
+                    "School (i.e., University, College, etc)": 105,
+                    "Online Courses or Certification": 100,
+                    "Colleague": 78,
+                    "Friend or family member": 71,
+                    "Coding Bootcamp": 50,
+                    "Hackathons (virtual or in-person)": 42
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 215,
+                "outof": 884,
+                "From": {
+                    "Free Resources Youtube/Blogs": 178,
+                    "Books / Physical media": 148,
+                    "On the job training": 117,
+                    "School (i.e., University, College, etc)": 106,
+                    "Online Courses or Certification": 99,
+                    "Colleague": 80,
+                    "Friend or family member": 71,
+                    "Coding Bootcamp": 51,
+                    "Hackathons (virtual or in-person)": 34
+                }
+            }
+        ]
+    },
+    {
+        "id": "a136dc9f-d965-4ebd-b7c5-d53c2983856d",
+        "AgeGroup": "Under 18 years old",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 259,
+                "outof": 1006,
+                "From": {
+                    "Free Resources Youtube/Blogs": 225,
+                    "Online Courses or Certification": 138,
+                    "Books / Physical media": 125,
+                    "School (i.e., University, College, etc)": 124,
+                    "Friend or family member": 112,
+                    "Coding Bootcamp": 83,
+                    "Hackathons (virtual or in-person)": 81,
+                    "On the job training": 68,
+                    "Colleague": 50
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 247,
+                "outof": 953,
+                "From": {
+                    "Free Resources Youtube/Blogs": 214,
+                    "Online Courses or Certification": 129,
+                    "School (i.e., University, College, etc)": 118,
+                    "Books / Physical media": 117,
+                    "Friend or family member": 106,
+                    "Coding Bootcamp": 79,
+                    "Hackathons (virtual or in-person)": 75,
+                    "On the job training": 66,
+                    "Colleague": 49
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 236,
+                "outof": 909,
+                "From": {
+                    "Free Resources Youtube/Blogs": 206,
+                    "Online Courses or Certification": 124,
+                    "Books / Physical media": 113,
+                    "School (i.e., University, College, etc)": 112,
+                    "Friend or family member": 103,
+                    "Coding Bootcamp": 77,
+                    "Hackathons (virtual or in-person)": 72,
+                    "On the job training": 59,
+                    "Colleague": 43
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 237,
+                "outof": 908,
+                "From": {
+                    "Free Resources Youtube/Blogs": 205,
+                    "Online Courses or Certification": 124,
+                    "Books / Physical media": 115,
+                    "School (i.e., University, College, etc)": 113,
+                    "Friend or family member": 102,
+                    "Coding Bootcamp": 76,
+                    "Hackathons (virtual or in-person)": 71,
+                    "On the job training": 60,
+                    "Colleague": 42
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 240,
+                "outof": 925,
+                "From": {
+                    "Free Resources Youtube/Blogs": 205,
+                    "Online Courses or Certification": 127,
+                    "School (i.e., University, College, etc)": 119,
+                    "Books / Physical media": 117,
+                    "Friend or family member": 103,
+                    "Coding Bootcamp": 76,
+                    "Hackathons (virtual or in-person)": 75,
+                    "On the job training": 57,
+                    "Colleague": 46
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 183,
+                "outof": 675,
+                "From": {
+                    "Free Resources Youtube/Blogs": 148,
+                    "Online Courses or Certification": 98,
+                    "School (i.e., University, College, etc)": 92,
+                    "Books / Physical media": 81,
+                    "Friend or family member": 74,
+                    "Hackathons (virtual or in-person)": 59,
+                    "Coding Bootcamp": 49,
+                    "On the job training": 45,
+                    "Colleague": 29
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 157,
+                "outof": 568,
+                "From": {
+                    "Free Resources Youtube/Blogs": 133,
+                    "Online Courses or Certification": 86,
+                    "Books / Physical media": 73,
+                    "School (i.e., University, College, etc)": 69,
+                    "Friend or family member": 61,
+                    "Coding Bootcamp": 44,
+                    "Hackathons (virtual or in-person)": 41,
+                    "On the job training": 37,
+                    "Colleague": 24
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 170,
+                "outof": 625,
+                "From": {
+                    "Free Resources Youtube/Blogs": 143,
+                    "Online Courses or Certification": 89,
+                    "Books / Physical media": 81,
+                    "School (i.e., University, College, etc)": 79,
+                    "Friend or family member": 73,
+                    "Hackathons (virtual or in-person)": 48,
+                    "Coding Bootcamp": 45,
+                    "On the job training": 37,
+                    "Colleague": 30
+                }
+            }
+        ]
+    },
+    {
+        "id": "ae5a3385-70bd-425d-9c1c-8efef190eb91",
+        "AgeGroup": "65 years or older",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 87,
+                "outof": 310,
+                "From": {
+                    "Free Resources Youtube/Blogs": 69,
+                    "Books / Physical media": 60,
+                    "School (i.e., University, College, etc)": 47,
+                    "On the job training": 44,
+                    "Online Courses or Certification": 35,
+                    "Colleague": 25,
+                    "Coding Bootcamp": 15,
+                    "Friend or family member": 11,
+                    "Hackathons (virtual or in-person)": 4
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 82,
+                "outof": 284,
+                "From": {
+                    "Free Resources Youtube/Blogs": 59,
+                    "Books / Physical media": 56,
+                    "School (i.e., University, College, etc)": 41,
+                    "On the job training": 37,
+                    "Online Courses or Certification": 31,
+                    "Colleague": 26,
+                    "Coding Bootcamp": 18,
+                    "Friend or family member": 10,
+                    "Hackathons (virtual or in-person)": 6
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 70,
+                "outof": 238,
+                "From": {
+                    "Free Resources Youtube/Blogs": 51,
+                    "Books / Physical media": 49,
+                    "School (i.e., University, College, etc)": 35,
+                    "On the job training": 31,
+                    "Online Courses or Certification": 28,
+                    "Colleague": 21,
+                    "Coding Bootcamp": 12,
+                    "Friend or family member": 7,
+                    "Hackathons (virtual or in-person)": 4
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 70,
+                "outof": 240,
+                "From": {
+                    "Free Resources Youtube/Blogs": 53,
+                    "Books / Physical media": 49,
+                    "School (i.e., University, College, etc)": 36,
+                    "On the job training": 33,
+                    "Online Courses or Certification": 25,
+                    "Colleague": 20,
+                    "Coding Bootcamp": 13,
+                    "Friend or family member": 8,
+                    "Hackathons (virtual or in-person)": 3
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 64,
+                "outof": 223,
+                "From": {
+                    "Free Resources Youtube/Blogs": 48,
+                    "Books / Physical media": 45,
+                    "School (i.e., University, College, etc)": 38,
+                    "On the job training": 30,
+                    "Online Courses or Certification": 24,
+                    "Colleague": 17,
+                    "Coding Bootcamp": 10,
+                    "Friend or family member": 9,
+                    "Hackathons (virtual or in-person)": 2
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 75,
+                "outof": 265,
+                "From": {
+                    "Free Resources Youtube/Blogs": 57,
+                    "Books / Physical media": 54,
+                    "School (i.e., University, College, etc)": 40,
+                    "On the job training": 38,
+                    "Online Courses or Certification": 26,
+                    "Colleague": 24,
+                    "Coding Bootcamp": 12,
+                    "Friend or family member": 8,
+                    "Hackathons (virtual or in-person)": 6
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 25,
+                "outof": 77,
+                "From": {
+                    "Books / Physical media": 18,
+                    "Free Resources Youtube/Blogs": 15,
+                    "School (i.e., University, College, etc)": 12,
+                    "On the job training": 11,
+                    "Online Courses or Certification": 10,
+                    "Colleague": 6,
+                    "Coding Bootcamp": 3,
+                    "Hackathons (virtual or in-person)": 2,
+                    "Friend or family member": 0
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 54,
+                "outof": 181,
+                "From": {
+                    "Free Resources Youtube/Blogs": 43,
+                    "Books / Physical media": 36,
+                    "School (i.e., University, College, etc)": 32,
+                    "On the job training": 28,
+                    "Online Courses or Certification": 19,
+                    "Colleague": 13,
+                    "Coding Bootcamp": 8,
+                    "Friend or family member": 2,
+                    "Hackathons (virtual or in-person)": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": "5e14a2de-dd84-4b5e-9745-28be38f9b0e4",
+        "AgeGroup": "55-64 years old",
+        "data": [
+            {
+                "Languages": "C",
+                "Users": 185,
+                "outof": 780,
+                "From": {
+                    "Books / Physical media": 144,
+                    "Free Resources Youtube/Blogs": 141,
+                    "On the job training": 108,
+                    "School (i.e., University, College, etc)": 101,
+                    "Online Courses or Certification": 85,
+                    "Colleague": 81,
+                    "Friend or family member": 50,
+                    "Coding Bootcamp": 44,
+                    "Hackathons (virtual or in-person)": 26
+                }
+            },
+            {
+                "Languages": "Java",
+                "Users": 171,
+                "outof": 706,
+                "From": {
+                    "Free Resources Youtube/Blogs": 132,
+                    "Books / Physical media": 131,
+                    "On the job training": 100,
+                    "School (i.e., University, College, etc)": 90,
+                    "Online Courses or Certification": 79,
+                    "Colleague": 71,
+                    "Coding Bootcamp": 41,
+                    "Friend or family member": 37,
+                    "Hackathons (virtual or in-person)": 25
+                }
+            },
+            {
+                "Languages": "JavaScript",
+                "Users": 164,
+                "outof": 674,
+                "From": {
+                    "Books / Physical media": 127,
+                    "Free Resources Youtube/Blogs": 124,
+                    "On the job training": 97,
+                    "School (i.e., University, College, etc)": 84,
+                    "Online Courses or Certification": 76,
+                    "Colleague": 68,
+                    "Coding Bootcamp": 39,
+                    "Friend or family member": 35,
+                    "Hackathons (virtual or in-person)": 24
+                }
+            },
+            {
+                "Languages": "HTML/CSS",
+                "Users": 147,
+                "outof": 614,
+                "From": {
+                    "Books / Physical media": 117,
+                    "Free Resources Youtube/Blogs": 114,
+                    "On the job training": 86,
+                    "School (i.e., University, College, etc)": 77,
+                    "Online Courses or Certification": 70,
+                    "Colleague": 63,
+                    "Friend or family member": 36,
+                    "Coding Bootcamp": 34,
+                    "Hackathons (virtual or in-person)": 17
+                }
+            },
+            {
+                "Languages": "Python",
+                "Users": 145,
+                "outof": 579,
+                "From": {
+                    "Books / Physical media": 112,
+                    "Free Resources Youtube/Blogs": 103,
+                    "School (i.e., University, College, etc)": 80,
+                    "On the job training": 75,
+                    "Online Courses or Certification": 68,
+                    "Colleague": 55,
+                    "Friend or family member": 40,
+                    "Coding Bootcamp": 29,
+                    "Hackathons (virtual or in-person)": 17
+                }
+            },
+            {
+                "Languages": "SQL",
+                "Users": 159,
+                "outof": 658,
+                "From": {
+                    "Books / Physical media": 125,
+                    "Free Resources Youtube/Blogs": 123,
+                    "On the job training": 97,
+                    "School (i.e., University, College, etc)": 80,
+                    "Online Courses or Certification": 76,
+                    "Colleague": 65,
+                    "Coding Bootcamp": 37,
+                    "Friend or family member": 35,
+                    "Hackathons (virtual or in-person)": 20
+                }
+            },
+            {
+                "Languages": "TypeScript",
+                "Users": 95,
+                "outof": 383,
+                "From": {
+                    "Books / Physical media": 74,
+                    "Free Resources Youtube/Blogs": 73,
+                    "On the job training": 58,
+                    "School (i.e., University, College, etc)": 49,
+                    "Online Courses or Certification": 44,
+                    "Colleague": 32,
+                    "Coding Bootcamp": 22,
+                    "Friend or family member": 17,
+                    "Hackathons (virtual or in-person)": 14
+                }
+            },
+            {
+                "Languages": "C#",
+                "Users": 118,
+                "outof": 474,
+                "From": {
+                    "Books / Physical media": 93,
+                    "Free Resources Youtube/Blogs": 84,
+                    "On the job training": 66,
+                    "School (i.e., University, College, etc)": 64,
+                    "Online Courses or Certification": 60,
+                    "Colleague": 45,
+                    "Friend or family member": 26,
+                    "Coding Bootcamp": 25,
+                    "Hackathons (virtual or in-person)": 11
+                }
+            }
+        ]
+    }
+]

@@ -2,6 +2,6 @@
 Stack Overflow Survey Analysis report prepared in Hackathon 
 
 ## Team Members
-- Roshan yadav
-- Ashish Kumar yadav
-- Yuvam kumar
+- Roshan yadav : https://github.com/Roshan-yadav-evil-genius
+- Ashish Kumar yadav : https://github.com/ashish20013
+- Yuvam kumar : https://github.com/yuvamk
